@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title">Trivia</string>
+    <string name="previous_button">Previous Button</string>
+    <string name="next_button">Next Button</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="counter_text">0 / 920</string>
+    <string name="inti_question_text">This Where we put our queston</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Wrong</string>
+    <string name="score_field">Highest Score: 0"\n"Current Score: 100</string>
+</resources>
